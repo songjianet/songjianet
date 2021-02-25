@@ -1,8 +1,8 @@
 <div align="center" width="100%">
   <img src="https://github.com/songjianet/songjianet/blob/main/images/working.gif" width="550" />
   
-  #### palette dreamers 
-  
+  #### palette dreamers
+  #### developers who love open source
   
 </div>
 
