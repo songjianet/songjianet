@@ -17,6 +17,8 @@
 - 🧑🏻‍💻 &nbsp;&nbsp;Like to write **code**
 <!-- 📝 &nbsp;&nbsp;See my [**Curriculum Vitae**](https://) to get more info.-->
 
+<br />
+
 #### Open source project
 
 - [**wechat-city-picker**](https://github.com/songjianet/wechat-city-picker)
