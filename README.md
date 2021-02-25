@@ -10,10 +10,10 @@
 
 #### About me
 
-- 📖 &nbsp;&nbsp;I’m currently learning **English**
-- 🎧 &nbsp;&nbsp;Like to listen to music
-- 🐱 &nbsp;&nbsp;Like kittens
-- 🧑🏻‍💻 &nbsp;&nbsp;Like to write code
+- 📖 &nbsp;&nbsp;I’m currently learning **english**
+- 🎧 &nbsp;&nbsp;Like to listen to **music**
+- 🐱 &nbsp;&nbsp;Like **kittens**
+- 🧑🏻‍💻 &nbsp;&nbsp;Like to write **code**
 
 
 
