@@ -12,7 +12,7 @@
 
 - 🎧 like to listen to music
 - 🐱 like kittens
-
+- 🧑🏻‍💻 like to write code
 
 
 
