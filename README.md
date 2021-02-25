@@ -8,7 +8,7 @@
 
 ---
 
-#### About me
+### About me
 
 - 💡 &nbsp;&nbsp;I like to explore new technologies and develop software solutions and quick hacks
 - 📖 &nbsp;&nbsp;I’m currently learning **TensolFlow**
@@ -19,15 +19,17 @@
 
 <br />
 
-#### Open source project
+### Open source project
 
 - [**wechat-city-picker**](https://github.com/songjianet/wechat-city-picker)
 - [**multi-function-table**](https://github.com/songjianet/multi-function-table)
 - [**bpmn-painter**](https://github.com/songjianet/bpmn-painter)
 
+<br />
 
+### GitHub Analytics
 
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songjianet&show_icons=true&theme=vue&show_owner=false)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=songjianet&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=songjianet&layout=compact&langs_count=8&theme=vue"/>
+</p>
