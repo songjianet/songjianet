@@ -11,7 +11,7 @@
 #### About me
 
 - 📖 &nbsp;&nbsp;I’m currently learning **english**
-- 🎧 &nbsp;&nbsp;Like to listen to **music**
+- 🎧 &nbsp;&nbsp;Like to listen to **music** and watch **movies**.
 - 🐱 &nbsp;&nbsp;Like **kittens**
 - 🧑🏻‍💻 &nbsp;&nbsp;Like to write **code**
 <!-- 📝 &nbsp;&nbsp;See my [**Curriculum Vitae**](https://) to get more info.-->
