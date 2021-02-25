@@ -10,9 +10,9 @@
 
 #### About me
 
-- 🎧 Like to listen to music
-- 🐱 Like kittens
-- 🧑🏻‍💻 Like to write code
+- 🎧 &nbsp;&nbsp;Like to listen to music
+- 🐱 &nbsp;&nbsp;Like kittens
+- 🧑🏻‍💻 &nbsp;&nbsp;Like to write code
 
 
 
