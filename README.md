@@ -8,6 +8,11 @@
 
 ---
 
+#### About me
+
+- 🎧 like to listen to music
+- 🐱 like kittens
+
 
 
 
