@@ -2,7 +2,7 @@
   <img src="https://github.com/songjianet/songjianet/blob/main/images/working.gif" width="550" />
   
   #### palette dreamers
-  #### developers who love open source
+  #### developer who love open source
 </div>
 
 ---
