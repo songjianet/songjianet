@@ -1,9 +1,9 @@
 <div align="center" width="100%">
   <img src="https://github.com/songjianet/songjianet/blob/main/images/working.gif" width="550" />
   
-  #### hi 👋 coders
-  #### palette dreamers
-  #### developer who love open source
+  #### Hi 👋 coders
+  #### I am a dream colorist
+  #### A coder who loves open source
 </div>
 
 ---
