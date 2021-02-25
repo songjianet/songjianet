@@ -3,7 +3,7 @@
   
   #### Hi 👋 coders
   #### I am a dream colorist
-  #### A coder who loves open source
+  #### A technocrat who loves to contribute to Open Source
 </div>
 
 ---
