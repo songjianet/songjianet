@@ -3,8 +3,9 @@
   
   #### palette dreamers
   #### developers who love open source
-  
 </div>
+
+---
 
 
 
