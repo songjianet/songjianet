@@ -20,13 +20,6 @@
 
 <br />
 
-### Open source project
-
-- [**wechat-city-picker**](https://github.com/songjianet/wechat-city-picker)
-- [**multi-function-table**](https://github.com/songjianet/multi-function-table)
-
-<br />
-
 ### GitHub Analytics
 
 <div align="center">
