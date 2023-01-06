@@ -11,7 +11,7 @@
 ### About me
 
 - 💡 &nbsp;&nbsp;I like to explore new technologies and develop software solutions and quick hacks
-- 📖 &nbsp;&nbsp;I’m currently learning **TensolFlow**
+- 📖 &nbsp;&nbsp;I’m currently learning draw **SVG**
 - 🎧 &nbsp;&nbsp;Like to listen to **music** and watch **movies**
 - 🐈‍ &nbsp;&nbsp;Like **kittens**
 - 🧑🏻‍💻 &nbsp;&nbsp;Like to write **code**
