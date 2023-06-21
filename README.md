@@ -22,7 +22,7 @@
 
 ### Sponsor
 
-![afdian](https://afdian.net/a/songjianet)
+- <a href="https://afdian.net/a/songjianet">afdian</a>
 
 ### GitHub Analytics
 
