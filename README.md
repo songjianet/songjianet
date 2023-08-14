@@ -20,10 +20,6 @@
 
 <br />
 
-### Sponsor
-
-- <a href="https://afdian.net/a/songjianet">afdian</a>
-
 ### GitHub Analytics
 
 <div align="center">
