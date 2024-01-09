@@ -1,6 +1,7 @@
 <div align="center" width="100%">
   <img src="https://github.com/songjianet/songjianet/blob/main/images/working.gif" width="550" />
-  
+
+  #### ![](https://views.whatilearened.today/views/github/songjianet/songjianet.svg)
   #### Hi 👋 coders
   #### I am a dream colorist
   #### A technocrat who loves to contribute to Open Source
